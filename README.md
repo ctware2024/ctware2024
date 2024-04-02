@@ -4,6 +4,11 @@
 #### title
 ##### title
 
+`
+num = 10
+console.log(num)
+`
+
 
 - 👋 Hi, I’m @ctware2024
 - 👀 I’m interested in ...
